@@ -4,4 +4,7 @@ addons:
   tion_home_assistant:
     repository: airens/tion_home_assistant
     target: tion_home_assistant
+  addon-example:
+    repository: hassio-addons/addon-example
+    target: addon-example
     
